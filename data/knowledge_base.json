@@ -1,0 +1,312 @@
+[
+  {
+    "id": "svc-web",
+    "name": "Web and App Development",
+    "category": "service",
+    "summary": "Custom websites, web applications and mobile apps built for scale and usability.",
+    "keywords": [
+      "web",
+      "app",
+      "mobile",
+      "android",
+      "ios",
+      "website",
+      "portal",
+      "platform",
+      "booking",
+      "ecommerce",
+      "dashboard",
+      "frontend",
+      "backend",
+      "full",
+      "stack"
+    ]
+  },
+  {
+    "id": "svc-ai",
+    "name": "AI and Automation Solutions",
+    "category": "service",
+    "summary": "Machine learning, generative AI, chatbots and workflow automation that reduce manual effort.",
+    "keywords": [
+      "ai",
+      "ml",
+      "machine",
+      "learning",
+      "chatbot",
+      "automation",
+      "recommendation",
+      "forecasting",
+      "fraud",
+      "nlp",
+      "document",
+      "extraction",
+      "workflow",
+      "reporting"
+    ]
+  },
+  {
+    "id": "svc-cloud",
+    "name": "Cloud and DevOps Engineering",
+    "category": "service",
+    "summary": "Cloud migration, CI/CD pipelines, containerisation and managed infrastructure.",
+    "keywords": [
+      "cloud",
+      "migration",
+      "aws",
+      "azure",
+      "devops",
+      "ci",
+      "cd",
+      "docker",
+      "kubernetes",
+      "pipeline",
+      "infrastructure",
+      "hosting"
+    ]
+  },
+  {
+    "id": "svc-sec",
+    "name": "Cybersecurity and Audits",
+    "category": "service",
+    "summary": "Security assessments, penetration testing and compliance readiness.",
+    "keywords": [
+      "security",
+      "audit",
+      "penetration",
+      "testing",
+      "vulnerability",
+      "compliance",
+      "cyber"
+    ]
+  },
+  {
+    "id": "svc-design",
+    "name": "UI/UX Design Studio",
+    "category": "service",
+    "summary": "Research-led interface design, prototyping and design systems.",
+    "keywords": [
+      "design",
+      "ui",
+      "ux",
+      "figma",
+      "redesign",
+      "branding",
+      "prototype",
+      "wireframe"
+    ]
+  },
+  {
+    "id": "svc-data",
+    "name": "Data Analytics and BI",
+    "category": "service",
+    "summary": "Dashboards, data pipelines and analytics that turn raw data into decisions.",
+    "keywords": [
+      "data",
+      "analytics",
+      "dashboard",
+      "bi",
+      "reporting",
+      "inventory",
+      "crm",
+      "erp",
+      "integration",
+      "insights"
+    ]
+  },
+  {
+    "id": "prod-suite",
+    "name": "Cynbit Product Suite",
+    "category": "product",
+    "summary": "Ready-to-deploy products from the Cynbit suite for common business workflows.",
+    "keywords": [
+      "product",
+      "suite",
+      "software",
+      "tool",
+      "saas",
+      "crm",
+      "erp",
+      "inventory",
+      "management"
+    ]
+  },
+  {
+    "id": "learn-fs",
+    "name": "BitElevate Full Stack Path",
+    "category": "learning",
+    "summary": "Structured learning path covering frontend, backend, databases and deployment with projects.",
+    "keywords": [
+      "full",
+      "stack",
+      "web",
+      "development",
+      "react",
+      "java",
+      "python",
+      "javascript",
+      "beginner",
+      "roadmap",
+      "placements"
+    ]
+  },
+  {
+    "id": "learn-ds",
+    "name": "BitElevate Data Science and AI Path",
+    "category": "learning",
+    "summary": "Hands-on path through Python, statistics, machine learning and generative AI with capstones.",
+    "keywords": [
+      "data",
+      "science",
+      "machine",
+      "learning",
+      "ai",
+      "python",
+      "statistics",
+      "generative",
+      "beginner",
+      "course"
+    ]
+  },
+  {
+    "id": "learn-cloud",
+    "name": "BitElevate Cloud and DevOps Path",
+    "category": "learning",
+    "summary": "Learn Linux, containers, CI/CD and cloud platforms with guided labs.",
+    "keywords": [
+      "cloud",
+      "devops",
+      "aws",
+      "docker",
+      "kubernetes",
+      "linux",
+      "learning",
+      "path"
+    ]
+  },
+  {
+    "id": "learn-design",
+    "name": "BitElevate UI/UX Path",
+    "category": "learning",
+    "summary": "Design thinking, Figma, prototyping and portfolio building.",
+    "keywords": [
+      "ui",
+      "ux",
+      "design",
+      "figma",
+      "portfolio",
+      "learning",
+      "course"
+    ]
+  },
+  {
+    "id": "learn-diaries",
+    "name": "Student Diaries and Mentorship",
+    "category": "learning",
+    "summary": "Peer stories and mentor guidance to help learners plan careers and projects.",
+    "keywords": [
+      "mentor",
+      "mentorship",
+      "career",
+      "switch",
+      "placements",
+      "internship",
+      "fresher",
+      "student",
+      "story",
+      "roadmap"
+    ]
+  },
+  {
+    "id": "career-intern",
+    "name": "Internship Programme",
+    "category": "career",
+    "summary": "Practical internships with technical assessments, mentorship and real project work.",
+    "keywords": [
+      "internship",
+      "intern",
+      "assessment",
+      "selection",
+      "fresher",
+      "stipend",
+      "remote",
+      "application",
+      "status"
+    ]
+  },
+  {
+    "id": "career-open",
+    "name": "Open Roles and Hiring Process",
+    "category": "career",
+    "summary": "Current openings, application stages from screening to technical assessment and final interview.",
+    "keywords": [
+      "job",
+      "opening",
+      "role",
+      "hiring",
+      "resume",
+      "apply",
+      "application",
+      "process",
+      "interview",
+      "developer",
+      "engineer"
+    ]
+  },
+  {
+    "id": "impact-social",
+    "name": "Social Impact Initiatives",
+    "category": "impact",
+    "summary": "Skilling and community programmes delivered with colleges, NGOs and communities.",
+    "keywords": [
+      "social",
+      "impact",
+      "ngo",
+      "csr",
+      "skilling",
+      "community",
+      "college",
+      "workshop",
+      "initiative"
+    ]
+  },
+  {
+    "id": "partner-collab",
+    "name": "Partnerships and Collaboration",
+    "category": "partnership",
+    "summary": "Co-created events, campus programmes, reseller and referral collaborations.",
+    "keywords": [
+      "partner",
+      "partnership",
+      "collaboration",
+      "hackathon",
+      "webinar",
+      "sponsorship",
+      "reseller",
+      "campus",
+      "workshops",
+      "joint"
+    ]
+  },
+  {
+    "id": "support-portal",
+    "name": "Client and Learner Support",
+    "category": "support",
+    "summary": "Help desk for portal access, payments, bug fixes and delivered product issues.",
+    "keywords": [
+      "support",
+      "login",
+      "password",
+      "reset",
+      "error",
+      "bug",
+      "crash",
+      "payment",
+      "access",
+      "portal",
+      "not",
+      "working",
+      "fix",
+      "issue"
+    ]
+  }
+]
