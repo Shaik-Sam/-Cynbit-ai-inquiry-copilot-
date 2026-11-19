@@ -1,0 +1,20 @@
+text,label
+"Hey, our hospital chain wants a patient appointment app, can you quote us? we hope to launch by March",project_inquiry
+"Can you build us something to track deliveries across 40 trucks? Budget is flexible",project_inquiry
+"We need our old Java billing system moved to AWS before the audit next month",project_inquiry
+"Interested in adding a chatbot to our shop website, what are your rates",project_inquiry
+"Which course is better for a beginner who wants to become a data analyst",learning_inquiry
+"Does BitElevate give certificates after finishing the python path",learning_inquiry
+"I am in 3rd year and confused between web dev and AI, can someone guide me",learning_inquiry
+"How many months is the cloud devops roadmap and is there any mentor support",learning_inquiry
+"I got the assessment mail for the intern role, can I submit after the deadline",career_inquiry
+"Do you hire freshers for backend positions",career_inquiry
+"Where do I see whether I cleared the screening round",career_inquiry
+"Attaching my CV for the design internship, kindly review",career_inquiry
+"We would like to organise a coding bootcamp together with your team at our university",partnership_inquiry
+"Our NGO runs digital literacy camps and wants Cynbit as a technology partner",partnership_inquiry
+"Interested in sponsoring your next student event, who handles that",partnership_inquiry
+"I paid for the course but the dashboard still says locked",support_request
+"The website I got from you last year is throwing a 500 error",support_request
+"Not able to download my certificate, button does nothing",support_request
+"My account got locked after too many tries and the reset link is expired",support_request
