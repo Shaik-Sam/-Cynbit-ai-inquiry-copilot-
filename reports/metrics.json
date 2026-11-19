@@ -1,0 +1,95 @@
+{
+  "train_size": 1600,
+  "test_size": 400,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "labels": [
+    "career_inquiry",
+    "learning_inquiry",
+    "partnership_inquiry",
+    "project_inquiry",
+    "support_request"
+  ],
+  "confusion_matrix": [
+    [
+      80,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      80,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      80,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      80,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      80
+    ]
+  ],
+  "report": {
+    "career_inquiry": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 80.0
+    },
+    "learning_inquiry": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 80.0
+    },
+    "partnership_inquiry": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 80.0
+    },
+    "project_inquiry": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 80.0
+    },
+    "support_request": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 80.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 400.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 400.0
+    }
+  }
+}
