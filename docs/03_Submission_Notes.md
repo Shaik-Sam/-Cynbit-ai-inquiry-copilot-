@@ -9,7 +9,7 @@ Architecture: TF-IDF and Logistic Regression intent classifier, regex entity ext
 Setup:
 
 ```
-git clone <repository-url>
+git clone https://github.com/Shaik-Sam/-Cynbit-ai-inquiry-copilot-
 cd cynbit-ai-inquiry-copilot
 python -m venv .venv
 source .venv/bin/activate
